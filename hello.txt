@@ -2,3 +2,5 @@ Welcome !
 
 
 I'm Sunny Avry. I'm a PostDoc in psychology, working on collaboration and educational technologies in Centre Learn. I used data since my master degree, by coding experiment softwares in Python/Tkinter. Then I used R extensively to do statistics and reports and dashboard rmarkdown and Shiny. Now, I used React.js to code application web.
+
+Now I want to develop machine learning skills to develop to improve the potential of the educational tools I want to develop. 
